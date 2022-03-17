@@ -2,7 +2,7 @@ package com.ejercio2.demo.service;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static   org.junit.jupiter.api.Assertions.assertEquals;
 
 public class TestAdd {
 
